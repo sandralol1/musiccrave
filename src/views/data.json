@@ -1,0 +1,40 @@
+{
+  "headers": ["Tipus de discapacitat", "Explicació", "Barrera"],
+  "rows": [
+    {
+      "id": 1,
+      "discapacitat": "Visual total",
+      "explicacio": "Apartat de les publicacions més recents on es troba una petita crítica sobre l'album. La fotografia de la portada es un fons negre, simulant el que pot entendre una persona sense vista quan no hi ha 'alt' en una web. El botó que obre el desplegable esta amagat.",
+      "handle": "Ves-hi",
+      "route": "/visual"
+    },
+    {
+      "id": 2,
+      "discapacitat": "Baixa visió",
+      "explicacio": "Dificultat en la lectura d'una entrevista a una cantant degut a la falta de contrast del color de la lletra i el fons. Fotografia pixelada de la que no s'hi reconeix el contingut.",
+      "handle": "Ves-hi",
+      "route": "/visio"
+    },
+    {
+      "id": 3,
+      "discapacitat": "Auditiva",
+      "explicacio": "Irrupció d'un audio irritant que no es pot apagar en clicar un botó que obra un vídeo. Aquest no es podrà escoltar amb condicions degut a la impossibilitat de parar el audio que sona. A més, s'ha incorporat un altre vídeo d'un concert que no té so, simplement s'observa una persona traduïnt la lletra de la cançó en llenguatge de signes.",
+      "handle": "Ves-hi",
+      "route": "/auditiva"
+    },
+    {
+      "id": 4,
+      "discapacitat": "Motriu",
+      "explicacio": "Pàgina que simula les barreres que poden experimentar les persones amb discapacitats motrius mitjançant el moviment que experimenta el link un cop el ratolí es posa a sobre, el que dificulta la seva funcionalitat. A més, s'ha dificultat l'accessibilitat a aquests amb l'ús del TAB desordenant els links.",
+      "handle": "Ves-hi",
+      "route": "/motiu"
+    },
+    {
+      "id": 5,
+      "discapacitat": "Cognitiva",
+      "explicacio": "Apartat de blog on el text d'una entrada parpalleja continuament. Després hi ha un botó que obra una pantalla flotant en la que s'ha d'introduïr el nom per subscriure's, que després es mostrada a baix del botó.",
+      "handle": "Ves-hi",
+      "route": "/cognitiva"
+    }
+  ]
+}
